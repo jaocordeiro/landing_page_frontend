@@ -1,15 +1,15 @@
-import { GoTo } from '.';
+import { GoTop } from '.';
 
 export default {
-  title: 'GoTo',
-  component: GoTo,
+  title: 'GoTop',
+  component: GoTop,
   args: {},
 };
 
 export const Template = (args) => {
   return (
     <div style={{ height: '400vh' }}>
-      <GoTo {...args} />
+      <GoTop {...args} />
     </div>
   );
 };

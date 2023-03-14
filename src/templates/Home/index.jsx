@@ -3,6 +3,7 @@ import { useEffect, useRef, useState } from 'react';
 import { mapData } from '../../api/map-data';
 import { mockBase } from '../Base/mock';
 import { NotFound } from '../NotFound';
+import { Loading } from '../Loading';
 
 function Home() {
   const [data, setData] = useState([]);
@@ -37,7 +38,7 @@ function Home() {
   }
 
   if (data && !data.slug) {
-    return <h1>Carregando...</h1>;
+    return <Loading />;
   }
 
   return <Base {...mockBase} />;

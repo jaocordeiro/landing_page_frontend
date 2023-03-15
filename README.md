@@ -1,8 +1,8 @@
 <h2><b>✏️ Sobre</b></h2><br/>
 
-## Landing Page [Curso Prof - Luiz Miranda ](https://github.com/luizomf)
+## [Curso Prof - Luiz Miranda ](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/)
 
-<b>Repositório API</b>
+<b><br/>Repositório API</b>
 https://github.com/jaocordeiro/strapi_backend_landing_pages
 
 ---

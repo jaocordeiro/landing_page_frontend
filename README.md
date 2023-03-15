@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+<h2><b>✏️ Sobre</b></h2><br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Landing Page [Curso Prof - Luiz Miranda ](https://github.com/luizomf)
 
-## Available Scripts
+<b>Repositório API</b>
+https://github.com/jaocordeiro/strapi_backend_landing_pages
 
-In the project directory, you can run:
+---
 
-### `npm start`
+<h2><b><br/> 👨🏼‍💻 Bibliotecas utilizadas no projeto</b></h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [ReactJs](https://reactjs.org/)
+  - O framework **ReactJs** é utilizado para o desenvolvimento de
+    aplicações/sites web com JavaScript.
+- [Styled Components](https://styled-components.com/)
+  - O **Styled-Components** é uma biblioteca para a criação de componentes e
+    estilização dos mesmos sendo muito utilizada hoje em dia para aplicações
+    ReactJS e React Native, a mesma usa o CSS-in-JS.
+  - No projeto a mesma foi utilizada para auxiliar na criação dos componentes
+    das páginas e estilização das mesmas. **Version 5.3.6**
+- [Strapi](https://strapi.io/)
+  - O **Strapi** é um serviço de gerenciamento de conteúdo (Content Management
+    Service, ou CMS, em inglês) open-source e headless. Ele permite ao usuário
+    criar APIs de alta qualidade em Javascript, tudo através de uma interface
+    gráfica do usuário, simples e direta.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+<h2><b><br/>📱Resultado final da aplicação</b></h2><br/>
+<p align="center"><img width="900" height="500" src="public/assets/application.gif"></p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+<h2><b><br/>💻 Requisitos para rodar o projeto</b></h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Node.js** - version >= `18.9.0`
+- **NPM** - version >= `8.19.1`
+- **Strapi** - version >= `4.6.0`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2><b><br/>📲 Como iniciar o Projeto:</b></h2><br/>
 
-### `npm run eject`
+Efetuar o clone deste repositório, e da API, colando em seu terminal o seguinte
+comando:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+API: `git clone https://github.com/jaocordeiro/strapi_backend_landing_pages.git`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Após clonar a api rodar **npm i** para instalar as dependências e **npm start**
+para subir a api.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Front-end: `git clone https://github.com/jaocordeiro/landing_page_frontend.git`
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Após clonar o front basta rodar **npm start** e o site estará rodando em seu
+local.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br/><h2><b><p align="center">Obrigado 😃</p></b><h2>
